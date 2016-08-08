@@ -1,2 +1,2 @@
 First,Second,Third 
-29,23,20
+22,17,25
